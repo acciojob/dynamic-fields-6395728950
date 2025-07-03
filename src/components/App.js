@@ -41,7 +41,7 @@ const App = () => {
               </div>
             ))
           }
-               <button type="button" onClick={handleadd}>Add More</button>
+               <button type="button" onClick={handleadd}>Add More..</button>
                <button type="submit">Submit</button>
 
         </form>
